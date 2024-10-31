@@ -1,5 +1,7 @@
 ## **Comprehensive Guide for Configuring Citrix for BYOD Access**
 
+![image](https://github.com/user-attachments/assets/6bea4b6d-46d3-4602-9937-22dec636ad39)
+
 This guide provides a step-by-step approach to configuring Citrix for secure BYOD (Bring Your Own Device) access, allowing employees to work remotely while protecting sensitive data and complying with organizational security standards. The setup enables BYOD users to securely access network resources like databases, Linux and Windows servers, SQL servers, and developer tools within a controlled Citrix environment.
 
 ---
@@ -93,6 +95,8 @@ To maintain a secure Citrix setup for BYOD access, ensure the following:
 ---
 
 ## **Step-by-Step Configuration Guide**
+
+![vZe3rfr9eT1ajQv1LC8AF](https://github.com/user-attachments/assets/358d8d66-04cc-4046-ab51-356e5dca4477)
 
 ### **Step 1: Deploy and Configure Citrix Gateway**
 
@@ -193,6 +197,8 @@ To maintain a secure Citrix setup for BYOD access, ensure the following:
 ---
 
 ### **How BYOD Users Log In Using Citrix Workspace (Formerly Citrix Receiver)**
+
+![HDbtQpHP6F1r81WkxgzstD](https://github.com/user-attachments/assets/e7d22422-d999-4e74-95f5-dddf25cf5424)
 
 Once the Citrix environment is set up, BYOD users can securely log in to access resources using Citrix Workspace (formerly Citrix Receiver). Here’s how:
 
